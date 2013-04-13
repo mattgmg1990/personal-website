@@ -1,0 +1,10 @@
+name: "Matt Garnes' Personal Website"
+description: "Matt Garnes' personal, professional website"
+
+url: "http://www.mattgarnes.com/"
+
+paginate: 10
+
+markdown: maruku
+permalink: pretty
+pygments: true
